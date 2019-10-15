@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="15px" viewBox="0 0 18 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>heart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="畫板" transform="translate(-747.000000, -288.000000)">
+            <g id="icon" transform="translate(116.000000, 241.000000)">
+                <g id="NORMAL" transform="translate(0.000000, 45.000000)">
+                    <g id="群組-12">
+                        <g id="entypo/heart" transform="translate(630.000000, 0.000000)">
+                            <rect id="Rectangle-path" x="0" y="0" width="20" height="20"></rect>
+                            <path d="M17.329,3.913 C15.674,2.394 12.991,2.394 11.335,3.913 L10.211,4.945 L9.087,3.913 C7.432,2.394 4.748,2.394 3.093,3.913 C1.231,5.622 1.231,8.393 3.093,10.102 L10.211,16.635 L17.329,10.102 C19.191,8.393 19.191,5.622 17.329,3.913 L17.329,3.913 Z" id="Shape" fill="#ed5565" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
