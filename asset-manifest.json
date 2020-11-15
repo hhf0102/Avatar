@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/Avatar/static/js/main.af29e5a5.chunk.js",
+    "main.js.map": "/Avatar/static/js/main.af29e5a5.chunk.js.map",
+    "runtime-main.js": "/Avatar/static/js/runtime-main.52252b52.js",
+    "runtime-main.js.map": "/Avatar/static/js/runtime-main.52252b52.js.map",
+    "static/js/2.17e754dc.chunk.js": "/Avatar/static/js/2.17e754dc.chunk.js",
+    "static/js/2.17e754dc.chunk.js.map": "/Avatar/static/js/2.17e754dc.chunk.js.map",
+    "index.html": "/Avatar/index.html",
+    "precache-manifest.2b526b8ad7e2ab47df6fe9797efc099b.js": "/Avatar/precache-manifest.2b526b8ad7e2ab47df6fe9797efc099b.js",
+    "service-worker.js": "/Avatar/service-worker.js",
+    "static/media/bulbasaur.svg": "/Avatar/static/media/bulbasaur.046230a2.svg",
+    "static/media/charmander.svg": "/Avatar/static/media/charmander.bdb8ff2f.svg",
+    "static/media/eevee.svg": "/Avatar/static/media/eevee.3c0ae52b.svg",
+    "static/media/gengar.svg": "/Avatar/static/media/gengar.c35557fd.svg",
+    "static/media/jigglypuff.svg": "/Avatar/static/media/jigglypuff.95d6187a.svg",
+    "static/media/meowth.svg": "/Avatar/static/media/meowth.e78d19db.svg",
+    "static/media/pikachu.svg": "/Avatar/static/media/pikachu.2d5ba1aa.svg",
+    "static/media/pokeball.svg": "/Avatar/static/media/pokeball.2b4798f5.svg",
+    "static/media/squirtle.svg": "/Avatar/static/media/squirtle.bf99537f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52252b52.js",
+    "static/js/2.17e754dc.chunk.js",
+    "static/js/main.af29e5a5.chunk.js"
+  ]
+}
